@@ -12,7 +12,7 @@ I took around 500 photos of our team doing the squat exercise. Included Google i
 ## 2. Use Labeling program to identify body parts 
 Used https://github.com/tzutalin/labelImg to label 5 body parts.
 
-## 3. Save labels to XML
+## 3. Save labels to XML -> CSV
 
 > python xml_to_csv.py
 
