@@ -1,8 +1,0 @@
-
-resize video
-
-ffmpeg -i test9.mp4 -vf scale=480:852 test9_2.mp4
-
-
-crop video
-ffmpeg -i squat_vid5_2.mp4 -filter:v "crop=200:500:80:70" -c:a copy out.mp4
